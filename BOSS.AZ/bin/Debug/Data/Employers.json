@@ -1,0 +1,73 @@
+﻿[
+  {
+    "Vacancies": [],
+    "Name": "Nadir",
+    "Surname": "SHahQacar",
+    "Mail": "testagajj@gmail.com",
+    "Username": "Nadir",
+    "Password": "9a415f365215a75e045369f568c64e40360920ffb4aad5528cad669fdc4ab6c4",
+    "City": "Isfahan",
+    "Phone": "0502625522",
+    "Age": 459,
+    "Notifications": [],
+    "Guid": "1537ad4c-6047-4db7-837f-41b97f5a6e28"
+  },
+  {
+    "Vacancies": [],
+    "Name": "Kamran",
+    "Surname": "Aliyev",
+    "Mail": "testagajj@gmail.com",
+    "Username": "Kamran",
+    "Password": "a43635a32146333e7ababfa3f1d6338ba039dd33fc3efb1e36a8fe87059acb4c",
+    "City": "Mogadishu",
+    "Phone": "0502111111",
+    "Age": 24,
+    "Notifications": [],
+    "Guid": "5b6a0824-8d12-418c-a1e5-0d573d592ec2"
+  },
+  {
+    "Vacancies": [
+      {
+        "IsPublic": true,
+        "Contact": {
+          "Mail": "testagajj@gmail.com",
+          "Phones": [
+            "0124412134"
+          ],
+          "Guid": "0df6205a-ec0b-44e3-ab07-b9936ec80e08"
+        },
+        "Ad": {
+          "Category": "Programming",
+          "Position": "Programmer",
+          "Region": "Shusha",
+          "SalaryRange": {
+            "From": 800,
+            "To": 2000
+          },
+          "Education": "Science Degree",
+          "Experience": "More than 5 years",
+          "Requirements": "En az 2 xarici dil bilmeli. Guclu tecrubeye malik olmali",
+          "JobDescription": "Seher 9 axsham 9",
+          "Company": "CC HOLDING",
+          "Contact": "Elvin Camalzade",
+          "Guid": "267eb843-91f5-4686-bf4a-ceac479aa0d9"
+        },
+        "Views": 17,
+        "RequestsFromWorkers": {
+          "54abb153-424f-4621-821a-c3e2a9816a44": "c3c8a213-a73d-4e31-bdba-97750c75e237"
+        },
+        "Guid": "90607e79-8f8b-4703-b8a6-75d66c766312"
+      }
+    ],
+    "Name": "Elvin",
+    "Surname": "Camalzade",
+    "Mail": "testagajj@gmail.com",
+    "Username": "Elvin",
+    "Password": "fcdec8966b71f9057c7fa9b29e9c44b4208b14f273e457b1ff2be0b427574789",
+    "City": "Sheki",
+    "Phone": "0502100001",
+    "Age": 23,
+    "Notifications": [],
+    "Guid": "e775ba00-ff96-419c-9195-a3ac6b906af1"
+  }
+]
